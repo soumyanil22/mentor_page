@@ -22,7 +22,6 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
-  margin-left: 4rem;
   flex: 0 0 21%;
   gap: 1.5rem 8rem;
   flex-grow: 1;
